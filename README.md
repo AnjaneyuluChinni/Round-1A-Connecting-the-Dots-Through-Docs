@@ -86,17 +86,17 @@ docker run --rm \
 
 ## 🎯 Scoring Optimization
 
-### Heading Detection Accuracy (25 points)
+### Heading Detection Accuracy 
 - Multi-factor detection algorithm maximizes both precision and recall
 - Handles edge cases like inconsistent font sizes and unusual formatting
 - Dynamic threshold adaptation improves accuracy across document types
 
-### Performance (10 points)
+### Performance
 - Lightweight PyMuPDF library ensures fast processing
 - Optimized algorithms stay well under time limits
 - Minimal memory footprint
 
-### Multilingual Support (10 points bonus)
+### Multilingual Support 
 - Unicode-aware text processing
 - Pattern recognition works across languages
 - Tested with Japanese and other non-Latin scripts
